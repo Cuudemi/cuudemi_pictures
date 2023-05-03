@@ -2,70 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on Cuudemi&#39;s Pictures</title>
-    <link>https://Cuudemi.github.io/cuudemi_pictures/tags/</link>
+    <link>https://Cuudemi.github.io./cuudemi_pictures/tags/</link>
     <description>Recent content in tags on Cuudemi&#39;s Pictures</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Cuudemi.github.io/cuudemi_pictures/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Cuudemi.github.io./cuudemi_pictures/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archive</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/archive/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://Cuudemi.github.io./cuudemi_pictures/tags/archive/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/archive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bunny</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/bunny/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/bunny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kittens</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/kittens/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/kittens/</guid>
+      <guid>https://Cuudemi.github.io./cuudemi_pictures/tags/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nature</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/nature/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://Cuudemi.github.io./cuudemi_pictures/tags/nature/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/nature/</guid>
+      <guid>https://Cuudemi.github.io./cuudemi_pictures/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>people</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/people/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <title>kittens</title>
+      <link>https://Cuudemi.github.io./cuudemi_pictures/tags/kittens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>space</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/space/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://Cuudemi.github.io/cuudemi_pictures/tags/work/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cuudemi.github.io/cuudemi_pictures/tags/work/</guid>
+      <guid>https://Cuudemi.github.io./cuudemi_pictures/tags/kittens/</guid>
       <description></description>
     </item>
     

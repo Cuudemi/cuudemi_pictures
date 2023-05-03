@@ -9,7 +9,7 @@ theme: eternity
 params:
   image: /images/banner.png
   logo: logo.png
-  subtitle: Здесь хранятся мои фото дял души :)
+  subtitle: Здесь хранятся мои фото для души :)
   copyright: All rights reserved
   author: Shcheglova Anastasia Andreevna
   dontShowSource: false
